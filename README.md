@@ -120,8 +120,13 @@ A GPU warmup loop at startup (up to 20 inferences with the real face crop) runs 
 ### Step 1 — Clone the repository
 
 ```powershell
-git clone https://github.com/yourname/ScrumSurvivor.git
+# Clone the upstream repository
+git clone https://github.com/heiner-palmen/ScrumSurvivor.git
 cd ScrumSurvivor
+
+# If you forked this repo, clone your fork instead:
+# git clone https://github.com/<your-github-username>/ScrumSurvivor.git
+# cd ScrumSurvivor
 ```
 
 ### Step 2 — Run the full prerequisites wizard
