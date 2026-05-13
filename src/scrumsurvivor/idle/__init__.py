@@ -1,0 +1,1 @@
+"""Idle animation sub-package."""

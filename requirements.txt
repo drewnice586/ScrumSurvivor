@@ -1,0 +1,26 @@
+# Core dependencies
+opencv-python>=4.8.0
+numpy>=1.24.0
+sounddevice>=0.4.6
+pyvirtualcam>=0.4.0
+pyyaml>=6.0
+Pillow>=10.0.0
+click>=8.0.0
+cv2-enumerate-cameras
+
+# AI / ML dependencies
+# torch / torchvision / torchaudio are installed separately with CUDA support
+# by setup_venv.ps1 — do NOT add them here or pip will pull the CPU-only build.
+mediapipe>=0.10.0
+librosa>=0.10.0
+scipy>=1.10.0
+
+# Audio processing
+noisereduce>=3.0.0
+
+# Input / hotkeys
+pynput>=1.7.0
+
+# Development / Testing
+pytest>=7.0.0
+pytest-mock>=3.10.0

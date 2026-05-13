@@ -1,0 +1,44 @@
+# Virtual environment
+.venv/
+
+# Assets (user-provided, not committed)
+assets/
+
+# ML models (large binary files)
+models/
+
+# Logs
+logs/
+
+# Local ffmpeg binaries
+ffmpeg/
+
+internal_docs/
+
+# Illusion verification recordings
+illusion_verifier/recordings/
+
+# Debug output files
+debug_*.png
+debug_wav2lip.py
+run_output.txt
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+
+# Config with personal settings (user regenerates on first run)
+# config.yaml is intentionally included — it serves as a documented template
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
