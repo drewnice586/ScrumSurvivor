@@ -2,7 +2,7 @@
 .venv/
 
 # Assets (user-provided, not committed)
-assets/
+assets/themes/
 
 # ML models (large binary files)
 models/
